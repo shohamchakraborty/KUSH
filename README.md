@@ -1,6 +1,6 @@
 # KUSH — Supply Chain Risk Predictor (India)
 
-AI-powered supply chain risk assessment dashboard for Indian market, featuring real-time Gemini AI insights, live currency conversion, and production-grade ML models.
+AI-powered supply chain risk assessment dashboard for Indian market, featuring real-time LLM(Gemini AI) insights, live currency conversion, and production-grade ML models.
 
 ## Project Structure
 
